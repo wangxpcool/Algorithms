@@ -1,6 +1,6 @@
 package cn.me.javaBasics.threadStudy;
 
-import cn.me.javaBasics.base.thredme;
+import cn.me.javaBasics.mapInThread.thredme;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
