@@ -3,51 +3,28 @@ package cn.me.test;
 import cn.me.study.basicType1.ClassType.ClassAbsract;
 import cn.me.study.basicType1.ClassType.ClassActualExtends;
 
+import java.lang.ref.Reference;
+import java.lang.ref.ReferenceQueue;
+import java.lang.ref.SoftReference;
+
 public class main {
 
     public static void main(String[] args) {
 
+        ReferenceQueue<String> referenceQueue = new ReferenceQueue<>();
+        String str = new String("abc");
+        SoftReference<String> softReference = new SoftReference<>(str, referenceQueue);
 
-        ClassAbsract classAbsract = new ClassActualExtends();
-        classAbsract.fun();
+        str = null;
+        // Notify GC
+        System.gc();
 
+        System.out.println(softReference.get()); // abc
 
-//        Exp exp = new Exp();
-//        exp.fun("123");
+        Reference<? extends String> reference = referenceQueue.poll();
+        System.out.println(reference); //null
 
-//        ClassA classA = new ClassA();
-//        classA.fun();
-
-//        System.out.println(System.getProperties());
-//        ClassActual2 classActual2 = new ClassActual2();
-//        classActual2.fun();
-
-
-
-//        //获取 Person 类的 Class 对象
-//        Class clazz= null;
-//        try {
-//            clazz = Class.forName("cn.me.study.basicType1.reflect.Person");
-//
-//            //使用.newInstane 方法创建对象
-//            Person p=(Person) clazz.newInstance();
-//            p.fun();
-//            //获取构造方法并创建对象
-////            Constructor c=clazz.getDeclaredConstructor(String.class,String.class,int.class);
-//            //创建对象并设置属性
-////            Person p1=(Person) c.newInstance("李四","男",20);
-//
-//
-//
-//        } catch (ClassNotFoundException e) {
-//            e.printStackTrace();
-//        } catch (IllegalAccessException e) {
-//            e.printStackTrace();
-//        }  catch (InstantiationException e) {
-//            e.printStackTrace();
-//        }
-
-
+//        Thread.State;
     }
 
 }

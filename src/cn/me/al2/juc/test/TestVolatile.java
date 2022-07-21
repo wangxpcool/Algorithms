@@ -20,7 +20,7 @@ public class TestVolatile {
 
 class ThreadDemo extends Thread {
 
-    private volatile   boolean flag = false;
+    private    boolean flag = false;
 
     @Override
     public void run() {
