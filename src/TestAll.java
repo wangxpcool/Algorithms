@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+<<<<<<< Updated upstream
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -25,3 +26,46 @@ public class TestAll {
         return list;
     }
 }
+=======
+import java.util.HashMap;
+
+public class TestAll {
+
+
+    static  int cc ;
+
+    public static void main(String[] args) {
+
+
+
+        int bgin = 1;
+        int end = 30;
+        int difer  = end-bgin;
+        if (difer>=5){
+            while(difer>=0){
+                int tem = bgin +4;
+                if (tem<end){
+                    System.out.println(bgin +" "+ tem);
+                }else{
+                    System.out.println(bgin +" "+ end);
+                }
+                difer-=5;
+                bgin = tem+1;
+            }
+            System.out.println();
+        }else{
+            System.out.println(bgin +" "+ end);
+        }
+
+        String ss= "2";
+        fun(ss);
+        System.out.println(ss);
+    }
+
+
+static void fun(String s){
+        s=s+"1";
+    System.out.println(s);
+}
+}
+>>>>>>> Stashed changes

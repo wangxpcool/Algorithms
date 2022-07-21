@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/main.java" line="6" />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="9c083ada-e278-4753-81f5-df5e9d9940c2" name="Default Changelist" comment="111">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_47.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/cn/me/al2/sort/QuickSort2022.java" afterDir="false" />
@@ -37,6 +41,67 @@
       <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/TestAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/TestAll.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/ThreadDemo.class" afterDir="false" />
+=======
+    <list default="true" id="9c083ada-e278-4753-81f5-df5e9d9940c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/GSmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/AbstractT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/InteT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/AllTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/BigJsonRead/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/CountDownLatchTest/tes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/mm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/searchFiles/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/socketChannel/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/mm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/anonyseTest/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/cloneTest/RunoobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/jdk18/m.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/TestAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/TestAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/Algorithm/leetcode/linklists/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/Algorithm/leetcode/linklists/linklist$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/Algorithm/leetcode/linklists/linklist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/Algorithm/sort/quickSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/TestScheduledThreadPool/TestScheduledThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/TestScheduledThreadPool/TestScheduledThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/atomicTest/AtomicDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/atomicTest/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/atomicTest/meTest$Tess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/atomicTest/meTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/Tess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/TestVolatile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/meTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/test22$First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/test22$Forth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/test22$Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/test22$Third.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/test/test22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/vo/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/vo/mm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/juc/vo/tt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/leetcode/matrx/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/leetcode/matrx/m.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/lists/listTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/reflick/CodeN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/reflick/t1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/reverse/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/reverse/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/reverse/mai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/sort/bubleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/sort/quickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/al2/sort/quickSortTest.class" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/beginJ/s/main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/f/Entity.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/f/entityTest.class" beforeDir="false" />
@@ -59,13 +124,31 @@
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/java/threadStudy/hashTableTest$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/java/threadStudy/hashTableTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/java/threadStudy/mainTest.class" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/streamTest/mm.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/test/ee.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/test/gg.class" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/base/ConcurrrentHapTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/base/ConcurrrentHapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/base/ConcurrrentHapTest2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/base/ConcurrrentHapTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/base/ConcurrrentHapTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/base/thredme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/implemetsAndExtends/imp/child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/implemetsAndExtends/imp/child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/implemetsAndExtends/imp/fatherImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/implemetsAndExtends/imp/fatherImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/implemetsAndExtends/testA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/implemetsAndExtends/testA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/threadStudy/ExecutorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/me/javaBasics/threadStudy/ExecutorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/streamTest/mm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/test/ee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/test/gg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/test/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/cn/me/test/main.class" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/testOnly/main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/threadxx/ThreadSing.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/cn/me/threadxx/mm.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestAll.java" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/src/cn/me/al2/juc/test/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/al2/juc/test/TestVolatile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/threadLocals/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/thread/threadLocals/test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/threadStudy/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/thread/threadStudy/ExecutorTest.java" afterDir="false" />
@@ -76,6 +159,11 @@
       <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/threadStudy/hashTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/thread/threadStudy/hashTableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/threadStudy/mainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/thread/threadStudy/mainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/me/test/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/test/main.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/imp/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/imp/child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/imp/fatherImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/imp/fatherImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/testA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/testA.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,21 +173,198 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="FavoritesManager">
     <favorites_list name="Algorithms" />
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/BigJsonRead/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/AllTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/jdk18/m.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/Error.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/searchFiles/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/socketChannel/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/StuImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/stu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/mm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> Stashed changes
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< Updated upstream
         <option value="Enum" />
         <option value="Kotlin Class" />
+=======
+        <option value="Interface" />
+>>>>>>> Stashed changes
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clone</find>
+      <find>clone()</find>
+      <find>size</find>
+      <find>futu</find>
+      <find>lingmiaobi</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/me/al2/linklists/n.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/al2/leetcode/linklists/n.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/Algorithms/forInterviews/reverseLinkedList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/Algorithms/forInterviews/reverseLinkedList/mm.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/test/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/base/ConcurrrentHapTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/mapInThread/ThreadLocalTest/ConcurrrentHapTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/imp/fatherImp.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/imp/child.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/testA.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/ab.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/InteT.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/AbstractT.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/AbstractAndInterfaceTest/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/cloneTest/M.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/cloneTest/VolatileTest2.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/VolatileTest2.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/CountDownLatchTest/tes.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/threadStudy/ReentrantLockTest2.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/FutureTest/mm.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/javaBasics/proxys/stuProxy.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/AllTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/t.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/Graph.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/GSmain.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/mm.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/mm.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestWrite.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead2.java" />
+        <option value="$PROJECT_DIR$/src/TestAll.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/socketChannel/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/searchFiles/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/anonyseTest/test.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/BigJsonRead/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/me/study/Stu2022/test/jdk18/m.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> Stashed changes
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -107,10 +372,91 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectId" id="1sQbXRJfdRMTvpobDQ1c9uhG1R8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showExcludedFiles Scope="false" ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="BigJsonRead" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -119,19 +465,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
+=======
+    <property name="extract.method.default.visibility" value="private" />
+>>>>>>> Stashed changes
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.me.javaBasics.thread.printABC" />
+=======
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.me.study.Stu2022.test.MultyReadFile" />
+      <recent name="cn.me.study.Stu2022.test.cloneTest" />
+      <recent name="cn.me.javaBasics.mapInThread.ThreadLocalTest" />
+      <recent name="cn.me.Algorithms.forInterviews.reverseLinkedList" />
+>>>>>>> Stashed changes
       <recent name="me.javaBasics.implemetsAndExtends.ext" />
-      <recent name="me.Algorithm.sort" />
-      <recent name="me.ClassType" />
-      <recent name="linkList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sharping\Desktop\repository\Algorithms\src\cn\me\javaBasics\thread\printABC\lock" />
@@ -139,6 +497,7 @@
       <recent name="C:\Users\sharping\IdeaProjects\Algorithms\src\me\javaBasics\implemetsAndExtends\ext" />
     </key>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.main">
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.me.javaBasics.thread.printABC.lock.Run" />
@@ -146,6 +505,27 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.me.javaBasics.thread.printABC.lock.*" />
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.m">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.me.study.Stu2022.test.Nio.socketChannel.Test" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.me.study.Stu2022.test.Nio.socketChannel.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +534,19 @@
       </method>
     </configuration>
     <configuration name="m" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< Updated upstream
       <option name="MAIN_CLASS_NAME" value="cn.me.study.jk18.base64.m" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.me.study.jk18.base64.*" />
+=======
+      <option name="MAIN_CLASS_NAME" value="cn.me.study.Stu2022.test.jdk18.m" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.me.study.Stu2022.test.jdk18.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +554,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="ma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.me.study.jk18.stream.ma" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.me.study.jk18.stream.*" />
+=======
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.me.study.Stu2022.test.Nio.main" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.me.study.Stu2022.test.Nio.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +576,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.me.javaBasics.thread.printABC.UseJoin.main" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.me.javaBasics.thread.printABC.UseJoin.*" />
+=======
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.me.study.Stu2022.test.BigJsonRead.main" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.me.study.Stu2022.test.BigJsonRead.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +598,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="mm (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.me.javaBasics.thread.printABC.mm" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.me.javaBasics.thread.printABC.*" />
+=======
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.me.study.Stu2022.test.anonyseTest.test" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.me.study.Stu2022.test.anonyseTest.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +622,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.mm (1)" />
         <item itemvalue="Application.m" />
         <item itemvalue="Application.ma" />
+=======
+        <item itemvalue="Application.m" />
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.Test" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +675,7 @@
       <workItem from="1620543498698" duration="449000" />
       <workItem from="1620543954476" duration="1329000" />
       <workItem from="1620733385531" duration="828000" />
+<<<<<<< Updated upstream
       <workItem from="1620807801981" duration="3165000" />
       <workItem from="1620812746200" duration="692000" />
       <workItem from="1620899780974" duration="287000" />
@@ -270,6 +694,50 @@
       <workItem from="1647914982040" duration="5548000" />
       <workItem from="1656482599749" duration="9854000" />
       <workItem from="1657874512361" duration="13952000" />
+=======
+      <workItem from="1620807801981" duration="1958000" />
+      <workItem from="1620819590371" duration="3172000" />
+      <workItem from="1620905597886" duration="5145000" />
+      <workItem from="1621144233047" duration="614000" />
+      <workItem from="1621258830185" duration="845000" />
+      <workItem from="1627801418447" duration="236000" />
+      <workItem from="1645863161568" duration="3425000" />
+      <workItem from="1646046604910" duration="1899000" />
+      <workItem from="1646316606916" duration="2980000" />
+      <workItem from="1646397874059" duration="1505000" />
+      <workItem from="1646446697160" duration="3359000" />
+      <workItem from="1646563722497" duration="743000" />
+      <workItem from="1646652664678" duration="5347000" />
+      <workItem from="1646744965559" duration="2215000" />
+      <workItem from="1647258782642" duration="2042000" />
+      <workItem from="1647431511980" duration="3441000" />
+      <workItem from="1647658620593" duration="1912000" />
+      <workItem from="1647746172332" duration="2840000" />
+      <workItem from="1648276785665" duration="3803000" />
+      <workItem from="1648620192403" duration="11653000" />
+      <workItem from="1648689865593" duration="1424000" />
+      <workItem from="1648790207829" duration="2684000" />
+      <workItem from="1648997461160" duration="121000" />
+      <workItem from="1649214276630" duration="2929000" />
+      <workItem from="1649297726305" duration="599000" />
+      <workItem from="1649914691289" duration="795000" />
+      <workItem from="1650268410102" duration="846000" />
+      <workItem from="1653016254822" duration="1991000" />
+      <workItem from="1653528723973" duration="1208000" />
+      <workItem from="1653617778020" duration="1967000" />
+      <workItem from="1655086884852" duration="597000" />
+      <workItem from="1655262611683" duration="1321000" />
+      <workItem from="1656150471622" duration="1554000" />
+      <workItem from="1656208843142" duration="3747000" />
+      <workItem from="1656751879561" duration="2404000" />
+      <workItem from="1656828950887" duration="962000" />
+      <workItem from="1657351388752" duration="1500000" />
+      <workItem from="1657370209049" duration="751000" />
+      <workItem from="1657434967037" duration="3773000" />
+      <workItem from="1657962259165" duration="6195000" />
+      <workItem from="1658038775454" duration="1633000" />
+      <workItem from="1658139050635" duration="3150000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1620812815811</created>
@@ -279,15 +747,64 @@
       <updated>1620812815811</updated>
     </task>
     <task id="LOCAL-00002" summary="111">
+<<<<<<< Updated upstream
       <created>1620900012194</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1620900012194</updated>
+=======
+      <created>1620913928779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620913928779</updated>
+>>>>>>> Stashed changes
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1276824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49892703" weight="0.4826389" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298611" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50107294" side_tool="true" weight="0.2824074" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298611" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+>>>>>>> Stashed changes
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -372,6 +889,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< Updated upstream
           <url>file://$PROJECT_DIR$/src/cn/me/test/simpleAl/main.java</url>
           <line>41</line>
           <option name="timeStamp" value="5" />
@@ -395,8 +913,546 @@
           <url>file://$PROJECT_DIR$/src/cn/me/test/stu2022/ObjectReflect/main.java</url>
           <line>20</line>
           <option name="timeStamp" value="11" />
+=======
+          <condition expression="(i==5)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/cn/me/javaBasics/implemetsAndExtends/testA.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/GSmain.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/Graph.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead2.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead2.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+>>>>>>> Stashed changes
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>(i==5)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[6]=0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/ReflectiveOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/test/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/GSmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/graphs/GraphSearch/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/ClassNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="57" column="54" selection-start-line="57" selection-start-column="54" selection-end-line="57" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="627" column="28" selection-start-line="627" selection-start-column="28" selection-end-line="627" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/reverse/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/juc/test/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/juc/vo/mm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/reverse/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/StudyJvm3/testStackOverflow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/Algorithms/reverse/mai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/threadStudy/callnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="2009" column="25" selection-start-line="2009" selection-start-column="25" selection-end-line="2009" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/sun/nio/ch/FileChannelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="940" column="18" selection-start-line="940" selection-start-column="18" selection-end-line="940" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/MultyReadFile/mm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/mm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="78" column="46" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="46" />
+          <folding>
+            <element signature="e#5757#5758#0" expanded="true" />
+            <element signature="e#5793#5794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/NioOpFile/TestRead2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/stuProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/cloneTest/RunoobTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="158" column="17" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="633" column="33" lean-forward="true" selection-start-line="633" selection-start-column="33" selection-end-line="633" selection-end-column="33" />
+          <folding>
+            <element signature="e#24482#24483#0" expanded="true" />
+            <element signature="e#24547#24548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="219" column="21" selection-start-line="219" selection-start-column="21" selection-end-line="219" selection-end-column="21" />
+          <folding>
+            <element signature="e#7999#8000#0" expanded="true" />
+            <element signature="e#8047#8048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="71" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/anonyseTest/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22800">
+          <caret line="992" column="67" selection-start-line="992" selection-start-column="67" selection-end-line="992" selection-end-column="67" />
+          <folding>
+            <element signature="e#44314#44315#0" expanded="true" />
+            <element signature="e#44362#44363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2050">
+          <caret line="109" column="73" selection-start-line="108" selection-start-column="33" selection-end-line="109" selection-end-column="73" />
+          <folding>
+            <element signature="e#6378#6379#0" expanded="true" />
+            <element signature="e#6446#6447#0" expanded="true" />
+            <element signature="e#9223#9224#0" expanded="true" />
+            <element signature="e#9260#9261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/searchFiles/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Nio/socketChannel/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/StuImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/stu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/javaBasics/proxys/mm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/AllTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/BigJsonRead/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/me/study/Stu2022/test/jdk18/m.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Algorithms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>fastjson-1.2.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+>>>>>>> Stashed changes
 </project>
