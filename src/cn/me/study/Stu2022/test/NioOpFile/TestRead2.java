@@ -1,9 +1,6 @@
 package cn.me.study.Stu2022.test.NioOpFile;
-import java.io.BufferedInputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.RandomAccessFile;
+
+import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
@@ -11,7 +8,6 @@ import java.nio.channels.FileChannel.MapMode;
 
 
 /**
- *
  * Channel类似与流,数据可以从Channel读取到Buffer,也可以从Buffer写入到Channel
  * 但通道和流还是有区别,比如流只能是单向读或写,而通道可以异步读写
  *
@@ -26,7 +22,7 @@ public class TestRead2 {
 
         // 普通 NIO 读取
         // 每次读取1024个字节
-         readByChannelTest(1024);	// 28151毫秒
+        readByChannelTest(1024);    // 28151毫秒
 
         // 普通 NIO 读取
         // 每次读取1个字节,每次读取1个字节太慢了
@@ -46,7 +42,7 @@ public class TestRead2 {
     /**
      * 使用FileChannel读取文件,并打印在控制台
      *
-     * @param   //每次读取多少个字节
+     * @param //每次读取多少个字节
      * @throws IOException
      */
     public static void readByChannelTest(int allocate) throws IOException {
@@ -165,33 +161,33 @@ public class TestRead2 {
         // 构建一个只读的MappedByteBuffer
         MappedByteBuffer mappedByteBuffer = channel.map(MapMode.READ_ONLY, 0, size);
 
-        if(size<allocate){
+        if (size < allocate) {
             // 如果文件不大,可以选择一次性读取到数组
-             byte[] all = new byte[(int)size];
-             mappedByteBuffer.get(all, 0, (int)size);
-             //打印文件内容
-             System.out.println(new String(all));
+            byte[] all = new byte[(int) size];
+            mappedByteBuffer.get(all, 0, (int) size);
+            //打印文件内容
+            System.out.println(new String(all));
 
         }
 
         // 如果文件内容很大,可以循环读取,计算应该读取多少次
         byte[] bytes = new byte[allocate];
         long cycle = size / allocate;
-        int mode = (int)(size % allocate);
+        int mode = (int) (size % allocate);
         byte[] eachBytes = new byte[allocate];
         for (int i = 0; i < cycle; i++) {
             // 每次读取allocate个字节
             mappedByteBuffer.get(bytes);
 
             // 打印文件内容,关闭打印速度会很快
-             System.out.print(new String(eachBytes));
+            System.out.print(new String(eachBytes));
         }
-        if(mode > 0) {
+        if (mode > 0) {
             bytes = new byte[mode];
             mappedByteBuffer.get(bytes);
 
             // 打印文件内容,关闭打印速度会很快
-             System.out.print(new String(eachBytes));
+            System.out.print(new String(eachBytes));
         }
 
         // 关闭通道和文件流
@@ -206,6 +202,7 @@ public class TestRead2 {
 
     /**
      * 普通Java IO 缓冲流读取
+     *
      * @throws IOException
      */
     public static void readByBufferdStream() throws IOException {
@@ -216,7 +213,7 @@ public class TestRead2 {
         int len = 0;
         int allocate = 1024;
         byte[] eachBytes = new byte[allocate];
-        while((len = bis.read(eachBytes)) != -1) {
+        while ((len = bis.read(eachBytes)) != -1) {
             // System.out.print(new String(eachBytes, 0, len));
         }
 

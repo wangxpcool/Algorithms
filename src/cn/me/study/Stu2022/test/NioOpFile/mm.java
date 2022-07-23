@@ -7,7 +7,7 @@ public class mm {
     public static void main(String[] args) {
 
 
-       File file = new File("E:\\testWrite.txt");
+        File file = new File("E:\\testWrite.txt");
         try {
             readByFis(file);
         } catch (IOException e) {
@@ -23,7 +23,7 @@ public class mm {
         byte[] buff = new byte[4096];
         long counts = 0;
         int offset = 0;
-        while((offset = is.read(buff)) != -1) {
+        while ((offset = is.read(buff)) != -1) {
             counts = counts + offset;
         }
         is.close();

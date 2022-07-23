@@ -10,18 +10,18 @@ public class main {
     public static void main(String[] args) {
 
 
-        List<Map<String,Object>> list = new ArrayList<>();
+        List<Map<String, Object>> list = new ArrayList<>();
 
-        Map<String,Object> map = new HashMap<>();
-        map.put("ACCNO","a1");
+        Map<String, Object> map = new HashMap<>();
+        map.put("ACCNO", "a1");
         list.add(map);
 
         map = new HashMap<>();
-        map.put("ACCNO","a2");
+        map.put("ACCNO", "a2");
         list.add(map);
 
         map = new HashMap<>();
-        map.put("ACCNO","a3");
+        map.put("ACCNO", "a3");
         list.add(map);
 //
 //        int loop = 0;
@@ -56,9 +56,9 @@ public class main {
 //            result.add(map1);
 //        }
 
-        System.out.println(list.subList(0,1));
+        System.out.println(list.subList(0, 1));
 
-        System.out.println(list.subList(0,list.size()));
+        System.out.println(list.subList(0, list.size()));
 
     }
 }

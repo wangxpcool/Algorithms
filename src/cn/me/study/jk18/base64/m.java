@@ -1,12 +1,12 @@
 package cn.me.study.jk18.base64;
 
+import java.io.UnsupportedEncodingException;
 import java.time.LocalDateTime;
 import java.util.Base64;
 import java.util.UUID;
-import java.io.UnsupportedEncodingException;
 
 public class m {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         try {
 
             // 使用基本编码
@@ -30,7 +30,7 @@ public class m {
             String mimeEncodedString = Base64.getMimeEncoder().encodeToString(mimeBytes);
             System.out.println("Base64 编码字符串 (MIME) :" + mimeEncodedString);
 
-        }catch(UnsupportedEncodingException e){
+        } catch (UnsupportedEncodingException e) {
             System.out.println("Error :" + e.getMessage());
         }
 

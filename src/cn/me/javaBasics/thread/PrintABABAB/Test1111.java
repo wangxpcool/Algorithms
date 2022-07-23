@@ -9,7 +9,6 @@ import java.util.concurrent.locks.ReentrantLock;
  * ReentrantLock結合Condition实现等待/通知，唤醒和等待部分线程
  *
  * @author Administrator
- *
  */
 public class Test1111 {
     private Lock lock = new ReentrantLock();

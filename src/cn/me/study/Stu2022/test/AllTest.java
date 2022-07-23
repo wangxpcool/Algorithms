@@ -1,24 +1,21 @@
 package cn.me.study.Stu2022.test;
 
-import java.util.*;
+import java.util.HashMap;
 
 public class AllTest implements Cloneable {
 
 
-    private  static int count;
+    private static int count;
 
     public static void main(String[] args) throws CloneNotSupportedException {
 
 
-        HashMap linkedHashMap = new HashMap<String,Object>();
+        HashMap linkedHashMap = new HashMap<String, Object>();
 
-        int i =1;
-        System.out.println(i<<3);
+        int i = 1;
+        System.out.println(i << 3);
 
         System.out.println(linkedHashMap.keySet());
-
-
-
 
 
     }

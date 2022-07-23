@@ -1,7 +1,6 @@
 package cn.me.javaBasics.thread.printABC;
 
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class mm {
 

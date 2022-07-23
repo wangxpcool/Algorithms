@@ -6,9 +6,9 @@ import java.lang.reflect.Method;
 public class stuProxy implements InvocationHandler {
 
 
-    Object obj ;
+    Object obj;
 
-    stuProxy(Object obj){
+    stuProxy(Object obj) {
         this.obj = obj;
     }
 

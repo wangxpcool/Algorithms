@@ -12,7 +12,6 @@ public class TestWrite {
         writeBuffer(file);
 
 
-
     }
 
     //  FileOutputStream的写入方式类似，在此略
@@ -20,10 +19,10 @@ public class TestWrite {
         FileOutputStream fos = new FileOutputStream(file);
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(fos));
         int i = 1000000000;
-        while(i > 0) {
+        while (i > 0) {
             //  word2048为字符串常量，刚好4800个字节
             writer.write(word2048);
-            i --;
+            i--;
         }
         writer.close();
         fos.close();

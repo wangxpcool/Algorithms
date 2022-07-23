@@ -18,17 +18,19 @@ public class Test {
         ServerSocketChannel ssc = ServerSocketChannel.open();
         ssc.configureBlocking(false); //
 // 2.堪定监听端n
-        ssc. bind (new InetSocketAddress(8988) );
+        ssc.bind(new InetSocketAddress(8988));
 // 3.连接笠合
         List<SocketChannel> channels = new ArrayList<>();
         while (true) {
 // 4. accept小力。名户戏11星.Socketchannel用於UW户布之间遇A
             SocketChannel sc = ssc.accept(); // --二 1
-            if (sc != null) {}
+            if (sc != null) {
+            }
             for (SocketChannel channel : channels) {
 // 5.接收客广璃发送的故据
-                int read = channel.read (buffer);// “
-                if (read > 0) {}
+                int read = channel.read(buffer);// “
+                if (read > 0) {
+                }
             }
         }
     }

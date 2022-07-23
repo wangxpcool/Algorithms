@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Node {
 
-    Integer value ;
+    Integer value;
 
     Node next;
 

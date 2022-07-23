@@ -7,41 +7,41 @@ public class tes {
 
     static CountDownLatch countDownLatch = new CountDownLatch(2);
 
-     static Integer integer = 1;
+    static Integer integer = 1;
 
     public static void main(String[] args) {
-        new Thread(()->{
+        new Thread(() -> {
             try {
                 countDownLatch.await();
                 integer++;
                 System.out.println("wait end" + integer);
-            }catch (InterruptedException e){
+            } catch (InterruptedException e) {
 
             }
 
         }).start();
 
-        new Thread(()->{
+        new Thread(() -> {
             try {
 
                 integer++;
 
-                System.out.println("countDown "+ integer);
+                System.out.println("countDown " + integer);
                 countDownLatch.countDown();
-            }catch (Exception e){
+            } catch (Exception e) {
 
             }
 
         }).start();
 
 
-        new Thread(()->{
+        new Thread(() -> {
             try {
 
                 integer++;
                 System.out.println("countDown " + integer);
                 countDownLatch.countDown();
-            }catch (Exception e){
+            } catch (Exception e) {
 
             }
 

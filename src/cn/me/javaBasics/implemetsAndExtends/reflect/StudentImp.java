@@ -1,6 +1,6 @@
 package cn.me.javaBasics.implemetsAndExtends.reflect;
 
-public class StudentImp implements Student{
+public class StudentImp implements Student {
 
     @Override
     public void fun() {

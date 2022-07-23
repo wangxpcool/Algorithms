@@ -34,14 +34,14 @@ public class mm {
 
     static ListNode reverseList(ListNode head) {
         ListNode newHead = null;
-        ListNode  node;
+        ListNode node;
         while (head != null) {
             //1. 对之前的链表做头删
             node = head;
             head = head.getNode();
 
             //2. 对新链表做头插
-            node.setNode( newHead);
+            node.setNode(newHead);
             newHead = node;
         }
         return newHead;

@@ -3,7 +3,7 @@ package cn.me.study.basicType1.ClassTypePublicTest;
 public class ClassA {
 
 
-     void fun(){
+    void fun() {
         System.out.println("???");
     }
 

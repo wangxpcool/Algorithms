@@ -12,7 +12,7 @@ public class WaitAndNotify {
 
     private final Object lock = new Object();
 
-    private volatile  List<String> list = new ArrayList<>();
+    private volatile List<String> list = new ArrayList<>();
 
     private final Random random = new Random();
 
@@ -26,7 +26,7 @@ public class WaitAndNotify {
             }
             list.add(Thread.currentThread().getName().substring(9));
 //            if (list.size() == 10) {
-                System.out.println(Thread.currentThread().getName()+Arrays.toString(list.toArray(new String[0])));
+            System.out.println(Thread.currentThread().getName() + Arrays.toString(list.toArray(new String[0])));
 //            }
             lock.notifyAll();
         }

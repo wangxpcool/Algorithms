@@ -1,8 +1,7 @@
 package cn.me.test.stu2022.test1;
 
-import java.util.*;
-import java.util.concurrent.atomic.AtomicInteger;
-
+import java.util.HashSet;
+import java.util.Set;
 
 public class Test {
 
@@ -10,17 +9,18 @@ public class Test {
 
         ListNode head = new ListNode();
         ListNode next = new ListNode();
-        head.next=next;
+        head.next = next;
         ListNode next2 = new ListNode();
-        next.next=next2;
+        next.next = next2;
         ListNode next3 = new ListNode();
-        next2.next=next3;
+        next2.next = next3;
 
 
-        next3.next=head;
+        next3.next = head;
         System.out.println(hasCycle(head));
 
     }
+
     public static boolean hasCycle(ListNode head) {
         Set<ListNode> seen = new HashSet<ListNode>();
         while (head != null) {
@@ -31,10 +31,9 @@ public class Test {
         }
         return false;
     }
-    static class ListNode{
+
+    static class ListNode {
         ListNode next;
-
-
 
 
         public ListNode getNext() {

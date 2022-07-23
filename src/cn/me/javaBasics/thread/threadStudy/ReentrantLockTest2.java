@@ -3,6 +3,7 @@ package cn.me.javaBasics.thread.threadStudy;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
+
 public class ReentrantLockTest2 {
     private int number = 1;//A:1  B:2  C:3
     private Lock lock = new ReentrantLock();
@@ -90,25 +91,25 @@ public class ReentrantLockTest2 {
 
         ReentrantLockTest2 resource = new ReentrantLockTest2();
 
-        new Thread(()->{
+        new Thread(() -> {
             for (int i = 1; i <= 1; i++) {
                 resource.print1();
             }
-        },"A").start();
+        }, "A").start();
 
 
-        new Thread(()->{
+        new Thread(() -> {
             for (int i = 1; i <= 1; i++) {
                 resource.print2();
             }
-        },"B").start();
+        }, "B").start();
 
 
-        new Thread(()->{
+        new Thread(() -> {
             for (int i = 1; i <= 1; i++) {
                 resource.print3();
             }
-        },"C").start();
+        }, "C").start();
 
 
     }

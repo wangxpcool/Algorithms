@@ -8,8 +8,8 @@ class SyncTest extends Thread {
         count = 0;
     }
 
-    public  void run() {
-        synchronized(this) {
+    public void run() {
+        synchronized (this) {
             for (int i = 0; i < 5; i++) {
                 try {
                     System.out.println(Thread.currentThread().getName() + ":" + (count++));

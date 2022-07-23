@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class ConcurrrentHapTest2 {
 
     public static void main(String[] args) throws InterruptedException {
-        ConcurrentHashMap<String, AtomicInteger> map = new ConcurrentHashMap<String,AtomicInteger>();
+        ConcurrentHashMap<String, AtomicInteger> map = new ConcurrentHashMap<String, AtomicInteger>();
         AtomicInteger integer = new AtomicInteger(1);
         map.put("key", integer);
         ExecutorService executorService = Executors.newFixedThreadPool(100);
@@ -24,8 +24,6 @@ public class ConcurrrentHapTest2 {
         System.out.println("------" + map.get("key") + "------");
         executorService.shutdown();
     }
-
-
 
 
 }

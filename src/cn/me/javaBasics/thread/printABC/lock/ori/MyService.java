@@ -7,22 +7,27 @@ import java.util.concurrent.locks.ReentrantLock;
 // 线程 A
 class ThreadA extends Thread {
     private MyService service;
+
     public ThreadA(MyService service) {
         super();
         this.service = service;
     }
+
     @Override
     public void run() {
         service.awaitA();
     }
 }
+
 // 线程 B
 class ThreadB extends Thread {
     private MyService service;
+
     public ThreadB(MyService service) {
         super();
         this.service = service;
     }
+
     @Override
     public void run() {
         service.awaitB();

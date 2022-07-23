@@ -1,9 +1,5 @@
 package cn.me.study.AbstractAndInterfaceTest;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Queue;
 import java.util.concurrent.Executors;
 
 public class main {
@@ -17,9 +13,10 @@ public class main {
 
 
     }
-    static class MxxUtil{
-        static void fun(){
-            System.out.println("do some work" );
+
+    static class MxxUtil {
+        static void fun() {
+            System.out.println("do some work");
         }
     }
 

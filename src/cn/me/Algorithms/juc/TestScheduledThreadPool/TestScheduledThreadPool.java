@@ -9,7 +9,7 @@ public class TestScheduledThreadPool {
         ScheduledExecutorService pool = Executors.newScheduledThreadPool(5);
 
         for (int i = 0; i < 5; i++) {
-            Future<Integer> result = pool.schedule(new Callable<Integer>(){
+            Future<Integer> result = pool.schedule(new Callable<Integer>() {
 
                 @Override
                 public Integer call() throws Exception {

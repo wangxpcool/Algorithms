@@ -7,8 +7,8 @@ public class TestVolatile {
         System.out.println(Thread.currentThread().getId());
 //        new Thread(td).start();
         td.start();
-        while(true){
-            if(td.isFlag()){
+        while (true) {
+            if (td.isFlag()) {
                 System.out.println("------------------");
                 break;
             }
@@ -20,7 +20,7 @@ public class TestVolatile {
 
 class ThreadDemo extends Thread {
 
-    private    boolean flag = false;
+    private boolean flag = false;
 
     @Override
     public void run() {

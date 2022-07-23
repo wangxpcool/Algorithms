@@ -1,6 +1,6 @@
 package cn.me.javaBasics.implemetsAndExtends.imp;
 
-public class child implements fatherImp,mother{
+public class child implements fatherImp, mother {
 
     @Override
     public void fun() {

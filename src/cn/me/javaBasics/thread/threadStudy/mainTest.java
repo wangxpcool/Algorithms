@@ -11,9 +11,9 @@ public class mainTest {
 //        t1.start();
 //        t2.start();
 
-                for(int i = 0;i<10;i++){
+        for (int i = 0; i < 10; i++) {
 
-                    SyncTest cc = new SyncTest();
+            SyncTest cc = new SyncTest();
             cc.start();
 
         }

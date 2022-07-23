@@ -13,7 +13,7 @@ public class main {
 
     }
 
-    static class MyThread extends Thread{
+    static class MyThread extends Thread {
 
         @Override
         public void run() {
@@ -27,7 +27,7 @@ public class main {
                 String str;
                 while ((str = bf.readLine()) != null) {
                     Thread.sleep(3);
-                    if ("11121111".equals(str)){
+                    if ("11121111".equals(str)) {
                         System.out.println(str);
 
                         Thread.sleep(3000);
@@ -42,7 +42,6 @@ public class main {
 
         }
     }
-
 
 
 }

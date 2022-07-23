@@ -6,14 +6,14 @@ public class quickSort {
     public static void main(String[] args) {
 
 
-        int s[] = {8,3,1,0,10};
-        for (int i:s){
+        int s[] = {8, 3, 1, 0, 10};
+        for (int i : s) {
             System.out.print(i);
         }
 
-        quickSort(s,0,s.length-1);
+        quickSort(s, 0, s.length - 1);
         System.out.println();
-        for (int i:s){
+        for (int i : s) {
             System.out.print(i);
         }
 
@@ -56,12 +56,11 @@ public class quickSort {
     }
 
 
+    public static int[] sort(int[] a) {
 
-    public static int[] sort(int[]a ){
-
-        for (int i = 0;i<a.length-1;i++){
-            for (int j = i;j<a.length;j++){
-                if (a[i]>a[j]){
+        for (int i = 0; i < a.length - 1; i++) {
+            for (int j = i; j < a.length; j++) {
+                if (a[i] > a[j]) {
                     int t = a[i];
                     a[i] = a[j];
                     a[j] = t;

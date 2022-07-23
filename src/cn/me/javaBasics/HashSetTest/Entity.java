@@ -2,7 +2,7 @@ package cn.me.javaBasics.HashSetTest;
 
 import java.util.Objects;
 
-public  class Entity {
+public class Entity {
 
     private String id;
     private String name;

@@ -6,14 +6,14 @@ import java.util.Hashtable;
 public class meTest {
 
 
-    static Hashtable<String,Object> map = new Hashtable<>();
+    static Hashtable<String, Object> map = new Hashtable<>();
 
     public synchronized static void main(String[] args) throws InterruptedException {
 
-        map.put("key1",1);
+        map.put("key1", 1);
 
         Tess s = new Tess();
-        for(int i = 0;i<10;i++){
+        for (int i = 0; i < 10; i++) {
             new Thread(s).start();
         }
 
@@ -31,19 +31,19 @@ public class meTest {
 
         Thread.sleep(3000);
 
-        System.out.println("final="+map);
+        System.out.println("final=" + map);
 
     }
 
-    public  static class Tess extends Thread{
+    public static class Tess extends Thread {
 
         @Override
-        public  void run() {
+        public void run() {
             {
-                Integer integer = (Integer) map.get("key"+map.size());
+                Integer integer = (Integer) map.get("key" + map.size());
                 integer++;
                 System.out.println(integer);
-                map.put("key"+integer,integer);
+                map.put("key" + integer, integer);
             }
 
 

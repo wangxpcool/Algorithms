@@ -9,20 +9,20 @@ public class Solution {
         ListNode tmp = head;
         ArrayList<ListNode> arr = new ArrayList();
         tmp = head;
-        while(tmp!=null){
+        while (tmp != null) {
             arr.add(tmp);
-            tmp=tmp.getNode();
+            tmp = tmp.getNode();
         }
 
         ListNode result = new ListNode();
         tmp = result;
-        for (int i=arr.size()-1;i>=0;i--){
+        for (int i = arr.size() - 1; i >= 0; i--) {
 
             ListNode node = new ListNode();
             node.setValue(arr.get(i).getValue());
 
             tmp.setNode(node);
-            tmp=node;
+            tmp = node;
 
         }
 

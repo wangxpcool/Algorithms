@@ -1,14 +1,13 @@
 package cn.me.javaBasics.mapInThread.ThreadLocalTest;
 
-import java.util.Hashtable;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class ConcurrrentHapTest {
 
-//    ThreadLocal<ConcurrentHashMap<String, Integer>> map = new ThreadLocal<>();
-    volatile static Integer integer =1;
+    //    ThreadLocal<ConcurrentHashMap<String, Integer>> map = new ThreadLocal<>();
+    volatile static Integer integer = 1;
+
     public static void main(String[] args) throws InterruptedException {
 
 

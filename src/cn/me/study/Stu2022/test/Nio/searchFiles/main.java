@@ -9,11 +9,11 @@ public class main {
 
 
     public static void main(String[] args) {
-        AtomicInteger atomicInteger= new AtomicInteger();
-        AtomicInteger atomicInteger2= new AtomicInteger();
-         Integer i=0;
+        AtomicInteger atomicInteger = new AtomicInteger();
+        AtomicInteger atomicInteger2 = new AtomicInteger();
+        Integer i = 0;
         try {
-            Files.walkFileTree(Paths.get("C:\\Users\\sharping\\Downloads"),new SimpleFileVisitor<>(){
+            Files.walkFileTree(Paths.get("C:\\Users\\sharping\\Downloads"), new SimpleFileVisitor<Path>() {
                 @Override
                 public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
                     System.out.println(dir);

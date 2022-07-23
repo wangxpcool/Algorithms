@@ -7,19 +7,20 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class ReentrantLockWay {
 
-    static  int number = 0;
-    static  int number2 = 0;
+    static int number = 0;
+    static int number2 = 0;
+
     public static void main(String[] args) {
 
 
-         Lock lock = new ReentrantLock();
-         Condition condition = lock.newCondition();
+        Lock lock = new ReentrantLock();
+        Condition condition = lock.newCondition();
         Condition conditionB = lock.newCondition();
-         AtomicInteger atomicInteger;
-        new Thread(()->{
+        AtomicInteger atomicInteger;
+        new Thread(() -> {
 
 //            for (int i = 1; i <= 10; i++) {
-            while(number<100){
+            while (number < 100) {
                 lock.lock();
                 number++;
                 System.out.println("A");
@@ -34,10 +35,10 @@ public class ReentrantLockWay {
             }
 
 //            }
-        },"A").start();
+        }, "A").start();
 
-        new Thread(()->{
-            while(number2<100){
+        new Thread(() -> {
+            while (number2 < 100) {
                 number2++;
                 lock.lock();
                 System.out.println("B");
@@ -50,8 +51,7 @@ public class ReentrantLockWay {
                 lock.unlock();
             }
 
-        },"A").start();
-
+        }, "A").start();
 
 
     }

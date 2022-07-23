@@ -10,19 +10,19 @@ public class testStackOverflow {
 //        System.out.println(511311313*1313122231);
 //        System.out.println(fun(20344));
 
-        HashMap<String,Object> hashMap  = new HashMap();
+        HashMap<String, Object> hashMap = new HashMap();
         int i = 0;
-        while(true){
+        while (true) {
 //            if (i%100==0){
 //                System.out.println(hashMap.size());
 //            }
             i++;
-            hashMap.put(i+"",i);
+            hashMap.put(i + "", i);
         }
 
     }
 
-           //main.testStackOverflowError(c);
+    //main.testStackOverflowError(c);
 
 
     public static void testStackOverflowError(int c) {//StackOverflowError
@@ -31,11 +31,11 @@ public class testStackOverflow {
     }
 
 
-    static int fun(int a){
-        if (a==1){
+    static int fun(int a) {
+        if (a == 1) {
             return a;
         }
-        return a*fun(a-1);
+        return a * fun(a - 1);
     }
 
 }

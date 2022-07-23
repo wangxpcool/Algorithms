@@ -12,7 +12,7 @@ public class t1 {
 
             Class clazz = Class.forName("cn.me.Algorithms.reflick.CodeN");
 
-            Field []field=clazz.getDeclaredFields();
+            Field[] field = clazz.getDeclaredFields();
 
             System.out.println(field[0].get(new String()));
 
