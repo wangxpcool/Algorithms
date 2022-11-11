@@ -1,5 +1,7 @@
 package cn.me.test;
 
+import cn.me.publi.StudentEntity;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,19 +10,21 @@ public class litest {
     public static void main(String[] args) {
 
 
+
         List<Integer> list = new ArrayList<>();
-        for (int i = 1; i <= 1001; i++) {
+        for (int i = 1; i <= 101; i++) {
             list.add(i);
         }
+        System.out.println(list);
 
-        if (list.size() > 100) {
-            for (int j = 0; j < list.size() / 100 + 1; j++) {
-                System.out.println(list.subList(j * 100, (j * 100 + 100) < list.size() ? j * 100 + 100 : list.size()));
+        list.stream().filter(integer -> {
+            if (integer%2==0){
+                return false;
             }
-        } else {
-            System.out.println(list);
-        }
+            return true;
+        });
 
+        System.out.println(list);
 
     }
 }
